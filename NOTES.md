@@ -1,5 +1,7 @@
 # Implementation Notes
 
+![M5CoreS3 M5StickC M5StickCPlus1 1](https://github.com/user-attachments/assets/ab72be20-1dad-48d9-8551-c453db37c8bb)
+
 ## Master Controller
 
 ### SoC
